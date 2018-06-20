@@ -1,0 +1,7 @@
+C:\Users\OEM\Source\Repos\ConsoleBattleApp\ConsoleBattleApp\bin\Debug\ConsoleBattleApp.exe.config
+C:\Users\OEM\Source\Repos\ConsoleBattleApp\ConsoleBattleApp\bin\Debug\ConsoleBattleApp.exe
+C:\Users\OEM\Source\Repos\ConsoleBattleApp\ConsoleBattleApp\bin\Debug\ConsoleBattleApp.pdb
+C:\Users\OEM\Source\Repos\ConsoleBattleApp\ConsoleBattleApp\obj\Debug\ConsoleBattleApp.csproj.CoreCompileInputs.cache
+C:\Users\OEM\Source\Repos\ConsoleBattleApp\ConsoleBattleApp\obj\Debug\ConsoleBattleApp.exe
+C:\Users\OEM\Source\Repos\ConsoleBattleApp\ConsoleBattleApp\obj\Debug\ConsoleBattleApp.pdb
+C:\Users\OEM\Source\Repos\ConsoleBattleApp\ConsoleBattleApp\obj\Debug\ConsoleBattleApp.csprojAssemblyReference.cache
